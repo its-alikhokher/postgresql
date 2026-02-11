@@ -122,4 +122,4 @@ for this project provides a [script] aiming at waiting for the connection to the
 postgres database to be responsive. How to perform this and chain it behind
 `tini` is exemplified in the `docker-compose.yml` file.
 
-  [script]: https://gist.github.com/efrecon/86456960e2110b287632fd7f42c1cd31
+iamaliraza777@gmail.com
